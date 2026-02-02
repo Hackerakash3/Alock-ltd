@@ -1,0 +1,7 @@
+{
+  "name": "ALOCK LTD - Finance Tracker",
+  "description": "A comprehensive, production-ready finance tracking application with AI-powered expense categorization, multi-role access, and BDT currency support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
